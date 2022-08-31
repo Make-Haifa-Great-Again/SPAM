@@ -51,7 +51,7 @@ EnumNameT BON(EnumNameT, fromString)("PIGGLET_ONE");
 
 # Q & A
 
-## Is Spammed enum's can still be used as a regular enum?
+## Does Spammed enum's can still be used as a regular enum?
 
 Yes! SPAM creates an enum inside of it's delicious meat.
 
