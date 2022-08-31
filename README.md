@@ -14,9 +14,9 @@ I hope it will help you allways remember setting a kitchen when you are making S
 
 None, though VScode's [better comments extention](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) would make the code shine.
 
-# How To Make Spam
+## How To Make Spam
 
-## step 1 - Raising The Hog
+### step 1 - Raising The Hog
 
 Preferably in a header file:
 ```
@@ -26,19 +26,19 @@ Preferably in a header file:
     _(PIGGLET_THREE, 2)\ 
     _(PIGGLET_SIX, 5)
 ```            
-## step 2 - Making Spam
+### step 2 - Making Spam
 
 Preferably in a header file:
 ```
 SPAM(ENUM_HOG, EnumNameT);
 ```            
-## step 3 - Setting a Kitchen
+### step 3 - Setting a Kitchen
 
 This Must Be Done In a SOURCE FILE :
 ```
 KITCHEN(ENUM_HOG, EnumNameT);
 ```            
-## step 4 - Addressing the Kitchen
+### step 4 - Addressing the Kitchen
 
 Can be done anywhere:
 ```
@@ -49,13 +49,13 @@ const char* BON(EnumNameT, toString)(PIGGLET_ONE);
 EnumNameT BON(EnumNameT, fromString)("PIGGLET_ONE");
 ```
 
-# Q & A
+## Q & A
 
-## Does Spammed enum's can still be used as a regular enum?
+### Does Spammed enum's can still be used as a regular enum?
 
 Yes! SPAM creates an enum inside of it's delicious meat.
 
-## What is The Time and Space Complexities of a SPAM?
+### What is The Time and Space Complexities of a SPAM?
 
  Creating a SPAM has no time or space complexities as it
  is a pre-proccessing operation.
