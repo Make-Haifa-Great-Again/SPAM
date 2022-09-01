@@ -77,3 +77,4 @@ Yes! SPAM creates an enum inside of it's delicious meat.
 
 * [Tech](https://www.codeproject.com/Articles/1118009/A-Smart-Enum-library-in-C-using-X-macros)
 * [Pazzaz](https://www.dailymotion.com/video/x2hwqlw)
+* [Philosophy](https://vimeo.com/745319831)
