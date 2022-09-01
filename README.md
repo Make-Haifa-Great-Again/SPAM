@@ -69,6 +69,12 @@ Yes! SPAM creates an enum inside of it's delicious meat.
  O(n * Average_SPAM_descriptor_Length) Time Complexity
  and O(1) Space complexity.
 
+### Can You Create Conditional Enums With it?
+
+Yes you can! Using one-liner if statements in the SPAM value.
+
+Check out Examples/conditional_spam/ for reference.
+
 ## Author
 
 * [@Focault](https://github.com/Focault)
