@@ -4,7 +4,7 @@ SPAM is a LOC tool to help you consentrate bi-directional num-string global iden
 
 ## How Does it Works?
 
-The Magic is based on Macro X manipulations, and it's core mechanism is thourogly described [in this article](https://www.codeproject.com/Articles/1118009/A-Smart-Enum-library-in-C-using-X-macros) by [@FredBienvenu](https://www.codeproject.com/script/Membership/View.aspx?mid=10721142).
+The Magic is based on X Macros manipulations, and it's core mechanism is thourogly described [in this article](https://www.codeproject.com/Articles/1118009/A-Smart-Enum-library-in-C-using-X-macros) by [@FredBienvenu](https://www.codeproject.com/script/Membership/View.aspx?mid=10721142).
 
 The Pazzaz of the magic is the addition of the silly logic rules that I constructed in orded to remember that this is not just an enum - and therefor should be handeled with care.
 
